@@ -1,0 +1,6 @@
+{
+  "name": "PaletteCraft / 色彩工坊",
+  "description": "A modern, sleek, and highly interactive bilingual (English & Traditional Chinese) color palette generator with an integrated AI assistant, dynamic live previews, project themes, and saved presets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
